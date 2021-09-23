@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T18:33:27.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LtRXxXlKPZoMjUm74yc2" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T02:20:20.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="N-77SJtdrH8FycLguNdf" version="15.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2842" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2237" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,8 +125,8 @@
         <mxCell id="QF62n-E6mhdTdz_LAiA7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QF62n-E6mhdTdz_LAiA7-38" target="QF62n-E6mhdTdz_LAiA7-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QF62n-E6mhdTdz_LAiA7-38" value="디자이너" style="swimlane;fillColor=#FFFFFF;startSize=23;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="55" y="550" width="200" height="200" as="geometry" />
+        <mxCell id="QF62n-E6mhdTdz_LAiA7-38" value="디자이너" style="swimlane;fillColor=#007FFF;startSize=23;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="150" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QF62n-E6mhdTdz_LAiA7-40" value="디자이너 ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QF62n-E6mhdTdz_LAiA7-38" vertex="1">
           <mxGeometry y="30" width="80" height="20" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry x="90" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QF62n-E6mhdTdz_LAiA7-43" value="스타일 메뉴" style="swimlane;fillColor=#FFFFFF;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="365" y="670" width="110" height="150" as="geometry" />
+          <mxGeometry x="-52.5" y="270" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QF62n-E6mhdTdz_LAiA7-44" value="디자이너 이름" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QF62n-E6mhdTdz_LAiA7-43" vertex="1">
           <mxGeometry x="-5" y="30" width="90" height="20" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="-5" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QF62n-E6mhdTdz_LAiA7-50" value="근무 미용실" style="swimlane;fillColor=#FFFFFF;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="730" width="160" height="180" as="geometry" />
+          <mxGeometry x="-480" y="270" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="QF62n-E6mhdTdz_LAiA7-51" value="미용실 ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QF62n-E6mhdTdz_LAiA7-50" vertex="1">
           <mxGeometry x="-5" y="35" width="70" height="20" as="geometry" />
@@ -167,17 +167,8 @@
         <mxCell id="QF62n-E6mhdTdz_LAiA7-52" value="미용실 주소" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QF62n-E6mhdTdz_LAiA7-50" vertex="1">
           <mxGeometry x="-5" y="60" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DH2KTcPPM7PbtqfFPRIT-2" value="미용실" style="swimlane;fontColor=#FFFFFF;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="350" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="DH2KTcPPM7PbtqfFPRIT-3" value="미용실ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="DH2KTcPPM7PbtqfFPRIT-2">
-          <mxGeometry y="40" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DH2KTcPPM7PbtqfFPRIT-4" value="미용실 이름&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="DH2KTcPPM7PbtqfFPRIT-2">
-          <mxGeometry y="75" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DH2KTcPPM7PbtqfFPRIT-5" value="미용실 주소" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="DH2KTcPPM7PbtqfFPRIT-2">
-          <mxGeometry y="110" width="80" height="20" as="geometry" />
+        <mxCell id="IEjca4lB0U9R8d5xCnj4-3" value="미용실" style="swimlane;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="420" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
